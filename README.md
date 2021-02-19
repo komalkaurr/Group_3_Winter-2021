@@ -14,27 +14,27 @@ In 3rd semester, in ESE_3025 , we learned about real time operating systems and 
 In term 4, we will make use of all the software and hardware skills in Capstone project. Our central device will be BB Wireless and we will make use of some real time problems in order to make a project which can tackle these issues to some extent.
 
 Smart Restaurant food ordering menu using Beaglebone black.
-Deciding and buying the components:
-2 Beaglebone
-Arduino UNO
-GSM module (SIM 900)
-Xbee S2C RF module (Rx and Tx)
-20*4 LCD Module
-4.3" cape LCD touch screen (Nextion)
-Breadboard/Zero PCB
-2 SD cards (32GB each)
-Jumper wires
-Power supply (Adapter)
-Soldering Equipment (soldering iron, soldering wire)
-Carbon Monoxide detection sensor 
-Temperature Sensor (LM 35)
-Smoke and LPG gas sensor (MQ-2)
-Mct2e optocoupler
-Buzzer
-Wire cutter
-Wire stripper
-12v DC Fan
-Power supply
+1) Deciding and buying the components:
+2) 2 Beaglebone
+3) Arduino UNO
+4) GSM module (SIM 900)
+5) Xbee S2C RF module (Rx and Tx)
+6) 20*4 LCD Module
+7) 4.3" cape LCD touch screen (Nextion)
+8) Breadboard/Zero PCB
+9) 2 SD cards (32GB each)
+10) Jumper wires
+11) Power supply (Adapter)
+12) Soldering Equipment (soldering iron, soldering wire)
+13) Carbon Monoxide detection sensor 
+14) Temperature Sensor (LM 35)
+15) Smoke and LPG gas sensor (MQ-2)
+16) Mct2e optocoupler
+17) Buzzer
+18)  Wire cutter
+19) Wire stripper
+20) 12v DC Fan
+21) Power supply
 
 
 
