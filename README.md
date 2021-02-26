@@ -12,7 +12,7 @@ Virender Singh(c0762540)
 EMBT is a core Embedded Sytems Design Course which prepare us for future in Embedded technology. In first 3 semesters, we learned about various theoretical aspects of Embedded Engineering and Design techniques. 
 In 3rd semester, in ESE_3025 , we learned about real time operating systems and in ESE_3005,we learned about embedded systems architecture, LPC1769 board and MCUExpresso, various architectures such as mutex etc.Thus, we have learned about BBB and in 3014 ,we learned about various communication protocols and how to implement them with BBB to communicate with various devices. 
 In term 4, we will make use of all the software and hardware skills in Capstone project. Our central device will be BB Wireless and we will make use of some real time problems in order to make a project which can tackle these issues to some extent.
-
+In Term 4, we are going to design an IoT based smart restauranrt food ordering menu using Beaglebone black wireless.
 Smart Restaurant food ordering menu using Beaglebone black.
 1) Deciding and buying the components:
 2) 2 Beaglebone
@@ -36,6 +36,17 @@ Smart Restaurant food ordering menu using Beaglebone black.
 20) 12v DC Fan
 21) Power supply
 
+**Testing hardware components:
+After buying all hardware, first step is to test it so that we can use it in our project with no second thoughts. 
 
+**So, I was assigned a task to test following components:
 
+Arduino Uno
+20* 2 LCD module
+4.3" Nextion Touch display module
+Smoke sensor-MQ-2
+CO sensor-MQ-9
+Magnetic Buzzer
+SIM900 GSM Module
+I was able to test all components succesfully except GSM module. 
 
