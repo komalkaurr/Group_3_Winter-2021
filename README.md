@@ -42,13 +42,19 @@ After buying all hardware, first step is to test it so that we can use it in our
 **So, I was assigned a task to test following components:
 
 Arduino Uno: I tested Arduino Uno with blinking LED code avilable in Arduino IDE and also researched about Arduino IDE
+
 20* 2 LCD module : For testing of LCD, I interfaced LCD module to Arduino Uno and imported I2C library to IDE and tested an example code from library
+
 4.3" Nextion Touch display module: For testing of touch module, I created a simple GUI using Nextion editor and then in order to show data transfer between Arduino and touch LCD, 
 I imported a code to Arduino IDE and uploaded it to Touch module and it worked properly.
 
 Smoke sensor-MQ-2 : Testing of smoke sensor is done by interfacing it with arduino
+
 CO sensor-MQ-9 : It is also interfaced to Arduino in order to do testing.
+
 Magnetic Buzzer: Buzzer is also tested using a simple delay program in Arduino IDE
+
 SIM900 GSM Module :I interfaced GSM Module to Arduino but it was not able to detect network , so testing was not completed.
+
 I was able to test all components succesfully except GSM module. 
 
