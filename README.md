@@ -58,3 +58,5 @@ SIM900 GSM Module :I interfaced GSM Module to Arduino but it was not able to det
 
 I was able to test all components succesfully except GSM module. 
 
+Next Task:
+My task is about interfacing of touch screen dsiplay with Beaglebone Black Wireless.
