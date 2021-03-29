@@ -1,0 +1,18 @@
+#include<stdio.h>          //This header defines various functions for perform
+#include<iobb.h>          //This header allows to access GPIO
+int main(void)
+{  
+iolib_init();            //For initializing the library iobb. 
+ iolib_setdir(8, 8, DigitalOut);        //Settting GPIO pin for output(8=P8 he$ 
+ while(1)  
+{   
+
+pin_high(8, 8);
+printf("Buzzer is ON \n");    
+iolib_delay_ms(600);           //delay of 6ms   
+ pin_low(8, 8);
+printf("Buzzer Is OFF \n");   
+ iolib_delay_ms(600);         //delay of 6ms 
+ } 
+ iolib_free();  
+return(0);}
